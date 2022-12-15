@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tv_name"
+        android:title="근처 사용자"/>
+
+    <item
+        android:id="@+id/walk_record"
+        android:title="산책 기록"/>
+
+    <item
+        android:id="@+id/walk_info"
+        android:title="산책 Tip"/>
+
+    <item
+        android:id="@+id/main"
+        android:title="메인 메뉴"/>
+</menu>
