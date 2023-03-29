@@ -12,5 +12,22 @@
 
 <br>
 
+# 🛠 Stack
+
+### :black_medium_small_square: Software Language
+
+| Language   | 기술                                     |
+| ---------- | ---------------------------------------- |
+| Java       | Android 기능 구현 |
+| FireBase| DB 구현 |
+
+### :black_medium_small_square: API
+
+| Tool                              | 기술                                 |
+| --------------------------------- | ------------------------------------ |
+| [OpenWeather](https://openweathermap.org/api/)       | 현재 위치기반 날씨 반환    |
+
+<br>
+
 # Flow Chart
 ![image](https://user-images.githubusercontent.com/48356954/228585512-e014448f-f9cd-45ec-8298-58e1008f3114.png)
