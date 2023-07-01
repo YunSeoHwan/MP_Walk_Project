@@ -12,6 +12,11 @@
 
 <br>
 
+# 발표영상
+https://youtu.be/32GyWvb8LGQ
+
+<br>
+
 # 🛠 Stack
 
 ### :black_medium_small_square: Software Language
